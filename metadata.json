@@ -1,0 +1,6 @@
+{
+  "name": "AmanSantap",
+  "description": "Sistem Peringatan Dini Dugaan Keracunan Pangan dan Pemantauan Keamanan Pangan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
